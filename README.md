@@ -1,1 +1,3 @@
 # blog
+
+Thoughts, opinions, plans
